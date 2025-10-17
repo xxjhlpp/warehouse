@@ -1,0 +1,42 @@
+{
+  "name": "knowledge-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@tiptap/extension-image": "^3.6.5",
+    "@tiptap/pm": "^3.6.5",
+    "@tiptap/starter-kit": "^3.6.5",
+    "@tiptap/vue-3": "^3.6.5",
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.12.2",
+    "core-js": "^3.8.3",
+    "dayjs": "^1.11.18",
+    "echarts": "^6.0.0",
+    "element-plus": "^2.11.4",
+    "quill": "^2.0.3",
+    "vue": "^3.2.13",
+    "vue-router": "^4.5.1",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/compiler-sfc": "^3.5.22",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.7.1",
+    "sass": "^1.93.2",
+    "sass-loader": "^16.0.5",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.2"
+  }
+}
